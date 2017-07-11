@@ -37,7 +37,6 @@ body {
 
 #nav-list a {
 	text-decoration:none;
-	text-align:center;
 }
 
 #nav-list li:nth-child(even){
@@ -106,7 +105,6 @@ body {
 #sec h2{
 	margin : 5px;
 	font-size:1.25em;
-	text-align : center;
 	font-weight:bold;
 	}
 
